@@ -1,0 +1,22 @@
+# NAME
+
+Acme::SEGV -
+
+# SYNOPSIS
+
+    use Acme::SEGV;
+
+# DESCRIPTION
+
+Acme::SEGV is
+
+# AUTHOR
+
+Kazuhiro Osawa <yappo {at} shibuya {dot} pl>
+
+# SEE ALSO
+
+# LICENSE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
