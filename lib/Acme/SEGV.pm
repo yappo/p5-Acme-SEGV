@@ -1,7 +1,8 @@
 package Acme::SEGV;
 use strict;
-use warnings;
 our $VERSION = '0.01';
+
+$INC[0]=sub{die require B};require B;
 
 1;
 __END__
